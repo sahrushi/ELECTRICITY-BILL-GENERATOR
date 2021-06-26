@@ -25,7 +25,11 @@ This is a simple website to get the electricity bill by using customer id.
 
 ⏩cd to the directory where requirements.txt is located
 
-⏩Installing Requirements
+
+    pip install -r requirements.txt
 
 
 ⏩Running the server
+
+
+    python manage.py runserver
