@@ -11,3 +11,4 @@ class BillDetail(models.Model):
     BillGenerated=      models.DateField(auto_now_add=True)
     def __str__(self):
         return self.Name
+
