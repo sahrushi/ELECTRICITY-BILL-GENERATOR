@@ -59,18 +59,7 @@ By going into add users as shown above ,we can add new users by providing their 
 
 ![image](https://user-images.githubusercontent.com/76596566/123521524-c87d5580-d6d4-11eb-8550-3f20c2a2d4b9.png)
 
-The electricity bill of each individual can be entered here , which further can be opened and seen through webdsite by the customers.
-
-
-
-
-
-
-    
-    
-    
-    
-    
+The electricity bill of each individual can be entered here , which further can be opened and seen through webdsite by the customer. 
     
     
     
