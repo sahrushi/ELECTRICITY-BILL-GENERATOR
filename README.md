@@ -65,6 +65,8 @@ By going into add users as shown above ,we can add new users by providing their 
 
 The electricity bill of each individual can be entered here , which further can be opened and seen through website by the customer.
 
+
+
   
 
   
