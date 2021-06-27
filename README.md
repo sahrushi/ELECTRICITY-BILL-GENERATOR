@@ -69,10 +69,22 @@ The electricity bill of each individual can be entered here , which further can 
 
 
 
+## CONTRIBUTORS
+
+
+* [MOHAMMAD IRFAN](https://github.com/IrfanMohammad123)
+* [SRIKANTH REDDY](https://github.com/5RIKANTH-REDDY)
 
 
 
-  
+## CREDITS
+
+
+* [CODE WITH HARRY](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+* [CODEMY.COM](https://www.youtube.com/watch?v=1x_ACMFzGYM&t=447s)
+* [Aneesh Bhattacharya](https://github.com/aneeshbhattacharya/Teaching-Assistant-2021)
+* Alluri L S V Siddartha Varma
+* Ankit Sharma
 
   
     
