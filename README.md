@@ -69,6 +69,8 @@ The electricity bill of each individual can be entered here , which further can 
 
 
 
+
+
   
 
   
