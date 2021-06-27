@@ -43,7 +43,7 @@ The main home page of our website looks like this.
 
 ![image](https://user-images.githubusercontent.com/76596566/123521449-60c70a80-d6d4-11eb-8d59-e073dfdbd17e.png)
 
-After we enter the unique user ID , that has been provided to every single , we shout press the submit button.
+After we enter the unique user ID , that has been provided to every single , we should press the submit button.
 
 ![image](https://user-images.githubusercontent.com/76596566/123521476-75a39e00-d6d4-11eb-835d-629a258f63e0.png)
 
@@ -63,5 +63,5 @@ The electricity bill of each individual can be entered here , which further can 
     
     
     
-    
+
     
